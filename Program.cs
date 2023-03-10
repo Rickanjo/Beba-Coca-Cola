@@ -11,5 +11,5 @@ Console.Write(@"     beba  coca  cola
      cola
           c l o a c a
           ");
-          Console.ResetColor();
+Console.ResetColor();
 
